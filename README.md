@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Thị Thanh Phúc</h1>
-<h3 align="center">Backend Developer | AI Enthusiast | Software Engineering Student</h3>
+<h3 align="center">Software Engineering Student</h3>
 
 ---
 
@@ -67,13 +67,7 @@
 
 ---
 
-## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ThanhPhuc4455&theme=tokyonight"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
